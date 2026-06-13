@@ -1,6 +1,6 @@
 # MindSpace+
 
-An infinite-canvas notes app built with Vite, React, TypeScript, and Tailwind CSS — inspired by [MindSpace Notes](https://lovable.dev), with extra features for organizing and connecting your ideas.
+An infinite-canvas notes app built with Vite, React, TypeScript, and Tailwind CSS.
 
 ## Features
 
