@@ -18,22 +18,6 @@ An infinite-canvas notes app built with Vite, React, TypeScript, and Tailwind CS
 - **Dark mode** toggle, with your preference remembered.
 - Everything is saved automatically to your browser's local storage.
 
-## Getting started
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the printed local URL (typically `http://localhost:5173`) in your browser.
-
-### Build for production
-
-```bash
-npm run build
-npm run preview
-```
-
 ## Tech stack
 
 - [Vite](https://vitejs.dev/)
