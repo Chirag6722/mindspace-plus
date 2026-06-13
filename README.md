@@ -2,6 +2,9 @@
 
 An infinite-canvas notes app built with Vite, React, TypeScript, and Tailwind CSS.
 
+**Live Demo:**https://mindspace-plus.vercel.app/
+
+
 ## Features
 
 - **Infinite canvas** — pan by dragging the background, zoom with the scroll wheel.
